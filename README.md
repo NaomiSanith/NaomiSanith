@@ -1,193 +1,206 @@
 
 <!-- ========================================= -->
-<!--       GITHUB PROFILE README               -->
-<!--       VERSION 0.2 - STRUCTURAL DESIGN      -->
+<!--              PROFILE BANNER               -->
 <!-- ========================================= -->
 
-<!-- HEADER PLACEHOLDER -->
-<!-- Replace this block with the approved banner later. -->
-
-<pre align="center">
-  
-          [ HEADER BANNER PLACEHOLDER ]
-  
-</pre>
+<p align="center">
+  <img
+    src="assets/header.png"
+    width="100%"
+    alt="Pixel-art countryside at sunset"
+  />
+</p>
 
 <!-- ========================================= -->
-<!--              MAIN LAYOUT                  -->
+<!--             TWO-COLUMN LAYOUT             -->
 <!-- ========================================= -->
 
-<table>
+<table width="100%">
 <tr>
 
-<!-- ========================================= -->
-<!--             LEFT COLUMN                   -->
-<!-- ========================================= -->
+<!-- =============== LEFT COLUMN =============== -->
 
 <td width="65%" valign="top">
 
-<!-- ABOUT ME -->
-
-<h2>About Me</h2>
+<h2>🌱 About Me</h2>
 
 <p>
-I'm a Computer Science major pursuing an Honors specialization in Artificial Intelligence and Machine Learning.
+  [PLACEHOLDER: A short, natural introduction about yourself,
+  your studies, interests and the kind of things you build.]
 </p>
 
 <p>
-I'm interested in building full-stack applications, designing thoughtful frontend experiences, and exploring how AI can make software more useful and interactive.
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<hr/>
+
+<h2>⭐ Featured Projects</h2>
+
+<!-- PROJECT 1 -->
+
+<table width="100%">
+<tr>
+<td width="32%" valign="top">
+
+[PLACEHOLDER: project thumbnail]
+
+</td>
+<td width="68%" valign="top">
+
+<h3>
+  <a href="[PLACEHOLDER: repository URL]">
+    [PLACEHOLDER: project name]
+  </a>
+</h3>
+
+<p>
+  [PLACEHOLDER: A concise description of the project,
+  what it does and the problem it solves.]
 </p>
 
 <p>
-My interests span frontend architecture, backend systems, data-driven applications, and AI/ML integration.
+  <img src="https://img.shields.io/badge/[PLACEHOLDER: technology]-lightgrey?style=flat-square" />
 </p>
 
-<hr>
+<a href="[PLACEHOLDER: repository URL]">Repository ↗</a>
+&nbsp; · &nbsp;
+<a href="[PLACEHOLDER: demo URL]">Live Demo ↗</a>
 
-<!-- FEATURED PROJECTS -->
+</td>
+</tr>
+</table>
 
-<h2>Featured Projects</h2>
+<hr/>
 
-<h3>01. [PLACEHOLDER: project name]</h3>
+<!-- PROJECT 2 -->
 
-<p><b>Overview:</b> [PLACEHOLDER: description]</p>
+<table width="100%">
+<tr>
+<td width="32%" valign="top">
 
-<p><b>Problem addressed:</b> [PLACEHOLDER: problem]</p>
+[PLACEHOLDER: project thumbnail]
 
-<p><b>My contribution:</b> [PLACEHOLDER: contribution]</p>
+</td>
+<td width="68%" valign="top">
 
-<p><b>Technologies:</b> [PLACEHOLDER: technology]</p>
-
-<p><b>Repository:</b> [PLACEHOLDER: repository URL]</p>
-
-<p><b>Live demo:</b> [PLACEHOLDER: demo URL]</p>
-
-<hr>
-
-<h3>02. [PLACEHOLDER: project name]</h3>
-
-<p><b>Overview:</b> [PLACEHOLDER: description]</p>
-
-<p><b>Problem addressed:</b> [PLACEHOLDER: problem]</p>
-
-<p><b>My contribution:</b> [PLACEHOLDER: contribution]</p>
-
-<p><b>Technologies:</b> [PLACEHOLDER: technology]</p>
-
-<p><b>Repository:</b> [PLACEHOLDER: repository URL]</p>
-
-<p><b>Live demo:</b> [PLACEHOLDER: demo URL]</p>
-
-<hr>
-
-<h3>03. [PLACEHOLDER: project name]</h3>
-
-<p><b>Overview:</b> [PLACEHOLDER: description]</p>
-
-<p><b>Problem addressed:</b> [PLACEHOLDER: problem]</p>
-
-<p><b>My contribution:</b> [PLACEHOLDER: contribution]</p>
-
-<p><b>Technologies:</b> [PLACEHOLDER: technology]</p>
-
-<p><b>Repository:</b> [PLACEHOLDER: repository URL]</p>
-
-<p><b>Live demo:</b> [PLACEHOLDER: demo URL]</p>
-
-<hr>
-
-<!-- CONTRIBUTION ACTIVITY -->
-
-<h2>Contribution Activity</h2>
+<h3>
+  <a href="[PLACEHOLDER: repository URL]">
+    [PLACEHOLDER: project name]
+  </a>
+</h3>
 
 <p>
-I use GitHub to document my development work, experiments, and projects.
+  [PLACEHOLDER: A concise project description.]
 </p>
 
 <p>
-<b>GitHub activity:</b> [PLACEHOLDER: GitHub profile URL]
+  <img src="https://img.shields.io/badge/[PLACEHOLDER: technology]-lightgrey?style=flat-square" />
+</p>
+
+<a href="[PLACEHOLDER: repository URL]">Repository ↗</a>
+&nbsp; · &nbsp;
+<a href="[PLACEHOLDER: demo URL]">Live Demo ↗</a>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<!-- PROJECT 3 -->
+
+<table width="100%">
+<tr>
+<td width="32%" valign="top">
+
+[PLACEHOLDER: project thumbnail]
+
+</td>
+<td width="68%" valign="top">
+
+<h3>
+  <a href="[PLACEHOLDER: repository URL]">
+    [PLACEHOLDER: project name]
+  </a>
+</h3>
+
+<p>
+  [PLACEHOLDER: A concise project description.]
 </p>
 
 <p>
-My native GitHub contribution graph provides the primary overview of my activity.
+  <img src="https://img.shields.io/badge/[PLACEHOLDER: technology]-lightgrey?style=flat-square" />
+</p>
+
+<a href="[PLACEHOLDER: repository URL]">Repository ↗</a>
+&nbsp; · &nbsp;
+<a href="[PLACEHOLDER: demo URL]">Live Demo ↗</a>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<h2>📊 Contribution Activity</h2>
+
+<p>
+  [PLACEHOLDER: contribution graph image or verified activity summary]
 </p>
 
 </td>
 
-<!-- ========================================= -->
-<!--             RIGHT COLUMN                  -->
-<!-- ========================================= -->
+<!-- =============== RIGHT COLUMN =============== -->
 
 <td width="35%" valign="top">
 
-<!-- SKILLS -->
+<h2>📊 Skills</h2>
 
-<h2>Skills</h2>
-
-<h3>Languages</h3>
-
-<ul>
-<li>TypeScript</li>
-<li>Python</li>
-</ul>
-
-<h3>Frontend</h3>
-
-<ul>
-<li>React</li>
-<li>Next.js</li>
-<li>Tailwind CSS</li>
-</ul>
-
-<h3>Backend</h3>
-
-<ul>
-<li>[PLACEHOLDER: technology]</li>
-</ul>
-
-<h3>AI / Machine Learning</h3>
-
-<ul>
-<li>[PLACEHOLDER: technology]</li>
-</ul>
-
-<h3>Tools & Platforms</h3>
-
-<ul>
-<li>[PLACEHOLDER: technology]</li>
-</ul>
-
-<hr>
-
-<!-- CURRENTLY LEARNING -->
-
-<h2>Currently Learning</h2>
-
-<ul>
-<li>[PLACEHOLDER: technology]</li>
-<li>[PLACEHOLDER: technology]</li>
-<li>[PLACEHOLDER: technology]</li>
-</ul>
-
-<hr>
-
-<!-- GITHUB STATS -->
-
-<h2>GitHub Stats</h2>
+**Languages**
 
 <p>
-[PLACEHOLDER: verified statistic]
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
+**Frontend**
+
 <p>
-Statistics will be added only when their source and accuracy can be verified.
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Other Technologies**
+
+<p>
+  [PLACEHOLDER: additional verified skills]
+</p>
+
+<hr/>
+
+<h2>📚 Currently Learning</h2>
+
+<ul>
+  <li>[PLACEHOLDER: technology]</li>
+  <li>[PLACEHOLDER: technology]</li>
+  <li>[PLACEHOLDER: technology]</li>
+</ul>
+
+<hr/>
+
+<h2>🏆 GitHub Stats</h2>
+
+<p>
+  [PLACEHOLDER: verified GitHub statistics image]
 </p>
 
 </td>
 
 </tr>
 </table>
-
-<!-- ========================================= -->
-<!--              END OF README                -->
-<!-- ========================================= -->
