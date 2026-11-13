@@ -71,14 +71,13 @@ PROJECT CARD TEMPLATE
 
 <!-- CONTRIBUTION ACTIVITY -->
 
-
 <h3>📊 Contribution Activity</h3>
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/6A9B72/NaomiSanith"
+    src="assets/contribution-calendar.svg"
     width="100%"
-    alt="NaomiSanith's GitHub contribution calendar"
+    alt="GitHub contribution calendar"
   />
 </p>
 
