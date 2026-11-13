@@ -71,24 +71,15 @@ PROJECT CARD TEMPLATE
 
 <!-- CONTRIBUTION ACTIVITY -->
 
+
 <h3>📊 Contribution Activity</h3>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-light&hide_border=true&area=true"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-light&hide_border=true&area=true"
-      width="100%"
-      alt="GitHub contribution activity graph"
-    />
-  </picture>
+  <img
+    src="https://ghchart.rshah.org/6A9B72/NaomiSanith"
+    width="100%"
+    alt="NaomiSanith's GitHub contribution calendar"
+  />
 </p>
 
 </td>
