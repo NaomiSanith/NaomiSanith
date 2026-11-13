@@ -162,7 +162,7 @@ PROJECT CARD TEMPLATE
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="assets/fence_segment.png" width="100%" alt="Pixel-art wooden garden fence with flowers and grass"/>
+  <img src="assets/fence_strip.png" width="100%" alt="Continuous pixel-art wooden garden fence with flowers and grass"/>
 </p>
 
 <p align="center">
