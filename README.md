@@ -155,15 +155,22 @@ PROJECT CARD TEMPLATE
 
 </td>
 </tr>
+
+<!-- ========================================= -->
+<!--         FULL-WIDTH BOTTOM FENCE           -->
+<!-- ========================================= -->
+
+<tr>
+  <td colspan="2" align="center" valign="bottom">
+    <img
+      src="assets/fence_strip.png"
+      width="100%"
+      alt="Continuous pixel-art wooden garden fence with flowers and grass"
+    />
+  </td>
+</tr>
+
 </table>
-
-<!-- ========================================= -->
-<!--             BOTTOM DECORATION             -->
-<!-- ========================================= -->
-
-<p align="center">
-  <img src="assets/fence_strip.png" width="100%" alt="Continuous pixel-art wooden garden fence with flowers and grass"/>
-</p>
 
 <p align="center">
   <sub>Thanks for stopping by. Have a lovely day! 🌼</sub>
