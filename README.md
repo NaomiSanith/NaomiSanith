@@ -4,7 +4,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="assets/header.png" width="100%" alt="Pixel-art countryside sunset with a cottage and a resting golden dog" />
+  <img src="assets/github_header.png" width="100%" alt="Pixel-art countryside sunset with a cottage and a resting golden dog" />
 </p>
 
 <!-- ========================================= -->
