@@ -75,12 +75,11 @@ PROJECT CARD TEMPLATE
 
 <p align="center">
   <img
-    src="assets/contribution-calendar.svg"
+    src="assets/contributions.png"
     width="100%"
-    alt="GitHub contribution calendar"
+    alt="2026 GitHub contribution calendar"
   />
 </p>
-
 </td>
 
 <!-- =============== RIGHT COLUMN ============= -->
