@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate contribution calendar
-        uses: salty-sweet/render-contribs@main
+        uses: NaomiSanith/render-contribs@main
         with:
           github_token: ${{ secrets.CONTRIBS_TOKEN }}
           zone: "Asia/Kolkata"
