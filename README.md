@@ -4,7 +4,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="assets/github_header.png" width="100%" alt="Pixel-art countryside sunset with a cottage and a resting golden dog" />
+  <img src="assets/header.png" width="100%" alt="Pixel-art countryside sunset with a cottage and a resting golden dog" />
 </p>
 
 <!-- ========================================= -->
@@ -74,11 +74,21 @@ PROJECT CARD TEMPLATE
 <h3>📊 Contribution Activity</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-light&hide_border=true&area=true"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-light&hide_border=true&area=true"
+      width="100%"
+      alt="GitHub contribution activity graph"
+    />
+  </picture>
 </p>
 
 </td>
