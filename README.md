@@ -18,10 +18,10 @@
 
 <!-- ABOUT ME -->
 
-<h3>🌱 About Me</h3>
+<h3>𝒜𝒷𝑜𝓊𝓉 𝑀𝑒</h3>
 
 <p>
-  <img src="assets/flower.png" width="95" align="right" alt="Pixel-art plant" />
+  <img src="assets/flower.png" width="120" align="right" alt="Pixel-art plant" />
   I'm a Computer Science student pursuing an Honors specialization in AI &amp; ML.
   <br/><br/>
   I enjoy building interactive experiences and exploring the intersection of web development, machine learning, and thoughtful design.
@@ -42,7 +42,7 @@
 
 <!-- FEATURED PROJECTS -->
 
-<h3>⭐ Featured Projects</h3>
+<h3>𝐹𝑒𝒶𝓉𝓊𝓇𝑒𝒹 𝒫𝓇𝑜𝒿𝑒𝒸𝓉𝓈</h3>
 
 <!--
 PROJECT CARD TEMPLATE
@@ -71,7 +71,7 @@ PROJECT CARD TEMPLATE
 
 <!-- CONTRIBUTION ACTIVITY -->
 
-<h3>📊 Contribution Activity</h3>
+<h3>𝒞𝑜𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾𝑜𝓃 𝒜𝒸𝓉𝒾𝓋𝒾𝓉𝓎</h3>
 
 <p align="center">
   <img
@@ -80,7 +80,7 @@ PROJECT CARD TEMPLATE
     alt="2026 GitHub contribution calendar"
   />
 </p>
-<img src="assets/dog.png" width="95" align="right" alt="Pixel-art dog" />
+<img src="assets/dog.png" width="150" align="left" alt="Pixel-art dog" />
 </td>
 
 <!-- =============== RIGHT COLUMN ============= -->
@@ -88,7 +88,7 @@ PROJECT CARD TEMPLATE
 
 <!-- SKILLS -->
 
-<h3>🧰 Skills</h3>
+<h3>𝒮𝓀𝒾𝓁𝓁𝓈</h3>
 
 <p><b>Languages</b></p>
 <p>
@@ -121,7 +121,7 @@ PROJECT CARD TEMPLATE
 
 <!-- CURRENTLY LEARNING -->
 
-<h3>📖 Currently Learning</h3>
+<h3>𝒞𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝐿𝑒𝒶𝓇𝓃𝒾𝓃𝑔</h3>
 
 - Full-stack development
 - Frontend architecture
@@ -136,7 +136,7 @@ PROJECT CARD TEMPLATE
 
 <!-- GITHUB STATS -->
 
-<h3>🏆 GitHub Stats</h3>
+<h3>𝒢𝒾𝓉𝐻𝓊𝒷 𝒮𝓉𝒶𝓉𝓈</h3>
 
 <p align="center">
   <img
