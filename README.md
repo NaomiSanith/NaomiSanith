@@ -21,7 +21,7 @@
 <h3>🌱 About Me</h3>
 
 <p>
-  <img src="assets/plant.png" width="95" align="right" alt="Pixel-art plant" />
+  <img src="assets/flower.png" width="95" align="right" alt="Pixel-art plant" />
   I'm a Computer Science student pursuing an Honors specialization in AI &amp; ML.
   <br/><br/>
   I enjoy building interactive experiences and exploring the intersection of web development, machine learning, and thoughtful design.
@@ -80,6 +80,7 @@ PROJECT CARD TEMPLATE
     alt="2026 GitHub contribution calendar"
   />
 </p>
+<img src="assets/dog.png" width="95" align="right" alt="Pixel-art dog" />
 </td>
 
 <!-- =============== RIGHT COLUMN ============= -->
